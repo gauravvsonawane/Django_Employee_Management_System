@@ -1,0 +1,10 @@
+.center {
+    display:flex;
+    justify-content:center;
+    margin-top:1rem;
+}
+.table_cont {
+    display:flex;
+    justify-content:center;
+    margin:2rem;
+}
