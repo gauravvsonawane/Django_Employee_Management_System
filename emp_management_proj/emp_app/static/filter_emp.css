@@ -1,0 +1,13 @@
+.form {
+    margin:1rem 20rem;
+}
+
+.center {
+    display:flex;
+    justify-content:center;
+}
+
+h2 {
+    margin-top:1rem;
+    margin-bottom:0.5;
+}
